@@ -1,6 +1,6 @@
 <!-- Header section -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0052D4&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I%27m%20Sasidhar&fontSize=50&fontAlignY=38&desc=Backend%20Engineer%20|%20AI%20%26%20LLM%20Systems%20|%20Full-Stack%20Architect&descAlignY=60&descAlign=50" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0052D4&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I%27m%20Sasidhar&fontSize=50&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20%26%20LLM%20Systems%20%7C%20Full-Stack%20Architect&descAlignY=60&descAlign=50" alt="Header" />
 </div>
 
 <h3 align="center">
