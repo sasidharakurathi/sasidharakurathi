@@ -1,11 +1,11 @@
 <!-- Header section -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0052D4&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I%27m%20Sasidhar&fontSize=50&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20%26%20LLM%20Systems%20%7C%20Full-Stack%20Architect&descAlignY=60&descAlign=50" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0052D4&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I%27m%20Sasidhar&fontSize=50&fontAlignY=38&fontColor=ffffff" alt="Header" />
 </div>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+FastAPI+%26+Django+Backends;Orchestrating+LLM+Agents+with+n8n+%26+ADK;Crafting+Voice-Streaming+%26+Computer+Vision+Apps;Containerizing+with+Docker+%26+Cloud+DevOps;Trying+to+achieve+Continuous+Happiness..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+FastAPI+and+Django+Backends;Orchestrating+LLM+Agents+with+n8n+and+ADK;Crafting+Voice-Streaming+and+Computer+Vision+Apps;Containerizing+with+Docker+and+Cloud+DevOps;Trying+to+achieve+Continuous+Happiness..." alt="Typing SVG" />
   </a>
 </h3>
 
@@ -13,9 +13,11 @@
   <a href="https://sasidharakurathi-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0052D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <!-- Update this email to your real email if you wish to make it public -->
-  <a href="mailto:sasidharakurathi@example.com">
+  <a href="mailto:sasidhardaicy@gmail.com">
     <img src="https://img.shields.io/badge/Email-0052D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/sasidhar-akurathi">
+    <img src="https://img.shields.io/badge/LinkedIn-0052D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sasidharakurathi">
     <img src="https://img.shields.io/badge/GitHub-0052D4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -30,12 +32,13 @@
 ### 👨‍💻 A little about me...
 - 🎓 **Final-year Computer Science student** passionate about building high-performance systems that combine AI automation, fast APIs, and secure backend architectures.
 - 💼 **Experience**: 
+  - **Project Intern @ InfoSpoke Integrated Solutions LLP** (Backend dev, performance optimization, scalable software).
   - **DevOps Intern @ Swecha AP** (CI/CD pipelines, Docker containerization, EdTech platforms, workflow automation).
   - **Cybersecurity Intern @ Supraja Technologies** (Vulnerability assessments, penetration testing).
 - 🔭 **Current Focus**: Working on AI recruitment systems, **TTS voice-streaming pipelines**, **FastAPI architectures** (Starlette/Pydantic), multi-agent LLM orchestration using **n8n** and **Google ADK**, and RAG chatbots.
 - 🌱 **Currently Learning**: Advanced Docker deployment, continuous optimization of Multi-Agent architectures, and Zero-Trust Backend Security.
 - 💬 **Ask me about**: Python, FastAPI, Django, Docker, n8n workflows, LLMs, and System Design.
-- 📫 **How to reach me**: Check out my [Portfolio](https://sasidharakurathi-portfolio.vercel.app/)!
+- 📫 **How to reach me**: Check out my [Portfolio](https://sasidharakurathi-portfolio.vercel.app/) or connect with me on [LinkedIn](https://www.linkedin.com/in/sasidhar-akurathi)!
 
 ---
 
@@ -47,7 +50,7 @@
   <summary><b>💻 Programming Languages</b></summary>
   <br/>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,sql,html,css&theme=dark" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mysql,html,css&theme=dark" alt="Programming Languages" />
   </p>
 </details>
 
@@ -105,12 +108,12 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sasidharakurathi&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
+### 📜 Education & Certifications
+- 🎓 **B.Tech Computer Science**, P.S.C.M.R College of Engineering & Technology (2022 - 2026)
+- ☁️ **Introduction to AWS Cloud: Builder Labs Learning Plan**
+- 🐍 **Python Programming**
+- 💻 **Web Development**
+- 🔒 **Cybersecurity Fundamentals**
 
 ---
 
@@ -126,7 +129,6 @@
   <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=sasidharakurathi&theme=cobalt&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0052D4&height=100&section=footer" alt="Footer" />
 </p>
