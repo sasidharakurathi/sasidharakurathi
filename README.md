@@ -5,7 +5,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+FastAPI+%26+Django+Backends;Orchestrating+LLM+Agents+%26+RAG+Pipelines;Crafting+Voice-Streaming+%26+Computer+Vision+Apps;Containerizing+with+Docker+%26+Cloud+DevOps;Trying+to+achieve+Continuous+Happiness..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+FastAPI+%26+Django+Backends;Orchestrating+LLM+Agents+with+n8n+%26+ADK;Crafting+Voice-Streaming+%26+Computer+Vision+Apps;Containerizing+with+Docker+%26+Cloud+DevOps;Trying+to+achieve+Continuous+Happiness..." alt="Typing SVG" />
   </a>
 </h3>
 
@@ -32,9 +32,9 @@
 - 💼 **Experience**: 
   - **DevOps Intern @ Swecha AP** (CI/CD pipelines, Docker containerization, EdTech platforms, workflow automation).
   - **Cybersecurity Intern @ Supraja Technologies** (Vulnerability assessments, penetration testing).
-- 🔭 **Current Focus**: Working on AI recruitment systems, **TTS voice-streaming pipelines**, **FastAPI architectures** (Starlette/Pydantic), multi-agent LLM orchestration, and RAG chatbots.
+- 🔭 **Current Focus**: Working on AI recruitment systems, **TTS voice-streaming pipelines**, **FastAPI architectures** (Starlette/Pydantic), multi-agent LLM orchestration using **n8n** and **Google ADK**, and RAG chatbots.
 - 🌱 **Currently Learning**: Advanced Docker deployment, continuous optimization of Multi-Agent architectures, and Zero-Trust Backend Security.
-- 💬 **Ask me about**: Python, FastAPI, Django, Docker, LLMs, and System Design.
+- 💬 **Ask me about**: Python, FastAPI, Django, Docker, n8n workflows, LLMs, and System Design.
 - 📫 **How to reach me**: Check out my [Portfolio](https://sasidharakurathi-portfolio.vercel.app/)!
 
 ---
@@ -52,11 +52,15 @@
 </details>
 
 <details open>
-  <summary><b>🤖 AI, ML & Integrations</b></summary>
+  <summary><b>🤖 AI, ML & Agentic Workflows</b></summary>
   <br/>
   <p>
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark" alt="AI & ML" />
-    <br/>
+    <br/><br/>
+    <!-- Custom Badges for tools without standard skillicons -->
+    <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK" />
+    <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+    <br/><br/>
     <em>LLM Orchestration, RAG Systems, Multi-Agent Tooling, TTS Streaming, DeepFace, MediaPipe</em>
   </p>
 </details>
@@ -65,7 +69,6 @@
   <summary><b>🌐 Backend & Web Architecture</b></summary>
   <br/>
   <p>
-    <!-- We can use the fastAPI badge from somewhere else if needed, but skillicons has fastAPI -->
     <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,react&theme=dark" alt="Frameworks" /> 
     <br/>
     <em>FastAPI (Starlette, Pydantic), Django REST Framework, Scalable API Design</em>
@@ -96,7 +99,7 @@
 
 ### 🚀 Featured Engineering Work
 - 🎤 **VirtuHire**: A cohesive AI product combining computer vision, real-time TTS voice-streaming, and biometric systems for automated interviews.
-- 🚀 **Orchestration Tooling**: Built scalable AI agent runners and backend architectures separating search capabilities from pure Python function tools.
+- 🚀 **Orchestration Tooling**: Built scalable AI agent runners, complex **n8n** automation workflows, and utilized the **Google ADK** (Agent Development Kit).
 - ⚡ **FastAPI High-Performance APIs**: Backend services utilizing Starlette and Pydantic for robust request validation and streaming responses.
 - 🐳 **Docker Mastery**: Wrote comprehensive technical guides (Docker Handbook) covering complex registries, image publishing, and multi-container architectures.
 
@@ -113,16 +116,15 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasidharakurathi&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasidharakurathi&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasidharakurathi&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasidharakurathi&theme=nightowl&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=sasidharakurathi&theme=cobalt&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 <p align="center">
