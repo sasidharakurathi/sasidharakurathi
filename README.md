@@ -13,7 +13,7 @@
   <a href="https://sasidharakurathi-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0052D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:sasidhardaicy@gmail.com">
+  <a href="mailto:akurathisasidhar4@gmail.com">
     <img src="https://img.shields.io/badge/Email-0052D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sasidhar-akurathi">
