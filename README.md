@@ -1,24 +1,24 @@
 <!-- Header section -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20👋%20I'm%20Sasidhar&fontSize=50&fontAlignY=38&desc=Final%20Year%20CS%20Student%20|%20Backend%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0052D4,4364F7,6FB1FC&height=250&section=header&text=Hi%20There!%20👋%20I'm%20Sasidhar&fontSize=50&fontAlignY=38&desc=Backend%20Engineer%20|%20AI%20%26%20LLM%20Systems%20|%20Full-Stack%20Architect&descAlignY=60&descAlign=50" />
 </div>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Backend+%26+Cloud+Development;AI+%26+Deep+Learning+Enthusiast;Cybersecurity+Learner;Trying+to+achieve+Continuous+Happiness..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+FastAPI+%26+Django+Backends;Orchestrating+LLM+Agents+%26+RAG+Pipelines;Crafting+Voice-Streaming+%26+Computer+Vision+Apps;Containerizing+with+Docker+%26+Cloud+DevOps;Trying+to+achieve+Continuous+Happiness..." alt="Typing SVG" />
   </a>
 </h3>
 
 <div align="center">
   <a href="https://sasidharakurathi-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0052D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <!-- Update this email to your real email if you wish to make it public -->
   <a href="mailto:sasidharakurathi@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0052D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/sasidharakurathi">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0052D4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <br/>
   <br/>
@@ -28,91 +28,84 @@
 ---
 
 ### 👨‍💻 A little about me...
-- 🎓 **Final-year Computer Science student** passionate about building practical systems that combine AI, automation, and secure backend architectures.
+- 🎓 **Final-year Computer Science student** passionate about building high-performance systems that combine AI automation, fast APIs, and secure backend architectures.
 - 💼 **Experience**: 
-  - **DevOps Intern @ Swecha AP** (CI/CD pipelines, EdTech platforms, workflow automation).
+  - **DevOps Intern @ Swecha AP** (CI/CD pipelines, Docker containerization, EdTech platforms, workflow automation).
   - **Cybersecurity Intern @ Supraja Technologies** (Vulnerability assessments, penetration testing).
-- 🔭 **Current Focus**: Working on AI recruitment systems, RAG chatbots, computer vision apps, and full-stack platforms. 
-- 🌱 **Currently Learning**: AI Agent Development, Scalable Backend Architectures, Cloud-based AI Systems, Advanced LLM Applications.
-- 💬 **Ask me about**: Python, Django, Dart, Security, LLMs, and System Design.
+- 🔭 **Current Focus**: Working on AI recruitment systems, **TTS voice-streaming pipelines**, **FastAPI architectures** (Starlette/Pydantic), multi-agent LLM orchestration, and RAG chatbots.
+- 🌱 **Currently Learning**: Advanced Docker deployment, continuous optimization of Multi-Agent architectures, and Zero-Trust Backend Security.
+- 💬 **Ask me about**: Python, FastAPI, Django, Docker, LLMs, and System Design.
 - 📫 **How to reach me**: Check out my [Portfolio](https://sasidharakurathi-portfolio.vercel.app/)!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-*A detailed breakdown of my toolkit:*
+*A detailed breakdown of my full-stack and AI engineering toolkit:*
 
-<details>
+<details open>
   <summary><b>💻 Programming Languages</b></summary>
   <br/>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,javascript,sql,dart,java,c&theme=dark" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,sql,html,css&theme=dark" alt="Programming Languages" />
   </p>
 </details>
 
-<details>
-  <summary><b>🤖 AI, ML & Computer Vision</b></summary>
+<details open>
+  <summary><b>🤖 AI, ML & Integrations</b></summary>
   <br/>
   <p>
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark" alt="AI & ML" />
     <br/>
-    <em>LLM Integration, RAG Systems, DeepFace, MediaPipe, Gemini API</em>
+    <em>LLM Orchestration, RAG Systems, Multi-Agent Tooling, TTS Streaming, DeepFace, MediaPipe</em>
   </p>
 </details>
 
-<details>
-  <summary><b>🌐 Backend & Mobile</b></summary>
+<details open>
+  <summary><b>🌐 Backend & Web Architecture</b></summary>
   <br/>
   <p>
-    <img src="https://skillicons.dev/icons?i=django,flutter,nodejs,express&theme=dark" alt="Frameworks" /> 
+    <!-- We can use the fastAPI badge from somewhere else if needed, but skillicons has fastAPI -->
+    <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,react&theme=dark" alt="Frameworks" /> 
     <br/>
-    <em>REST APIs, Scalable Backend Architecture</em>
+    <em>FastAPI (Starlette, Pydantic), Django REST Framework, Scalable API Design</em>
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>🛢️ Databases</b></summary>
   <br/>
   <p>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases" />
     <br/>
     <em>Experience with Relational and Vector Databases</em>
   </p>
 </details>
 
-<details>
-  <summary><b>🔧 DevOps, Tools & Security</b></summary>
+<details open>
+  <summary><b>🔧 DevOps, Cloud & Security</b></summary>
   <br/>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,bash,postman,aws&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,bash,postman&theme=dark" alt="Tools" />
     <br/>
-    <em>CI/CD Pipelines, Penetration Testing, FFmpeg, Vulnerability Assessment</em>
+    <em>Docker Containerization, CI/CD Pipelines, High-Performance Streaming & Penetration Testing</em>
   </p>
 </details>
 
-*(Note: Click on a category to expand it)*
-
 ---
 
-### 🚀 Featured Projects
-- 🎤 **VirtuHire**: A cohesive AI product combining computer vision, TTS, and biometric systems for recruitment.
-- 🍏 **Nutri-Scan**: Mobile application built with Dart & Flutter.
-- 🧭 **GPS Tracking System**: Location-based tracking mobile application.
-
----
-
-### 📜 Certifications
-- 🐍 **Python Programming**
-- 💻 **Web Development**
-- 🔒 **Cybersecurity Fundamentals**
+### 🚀 Featured Engineering Work
+- 🎤 **VirtuHire**: A cohesive AI product combining computer vision, real-time TTS voice-streaming, and biometric systems for automated interviews.
+- 🚀 **Orchestration Tooling**: Built scalable AI agent runners and backend architectures separating search capabilities from pure Python function tools.
+- ⚡ **FastAPI High-Performance APIs**: Backend services utilizing Starlette and Pydantic for robust request validation and streaming responses.
+- 🐳 **Docker Mastery**: Wrote comprehensive technical guides (Docker Handbook) covering complex registries, image publishing, and multi-container architectures.
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sasidharakurathi&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="sasidharakurathi" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sasidharakurathi&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </p>
 
@@ -121,17 +114,17 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasidharakurathi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasidharakurathi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sasidharakurathi&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasidharakurathi&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasidharakurathi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasidharakurathi&theme=nightowl&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0052D4,4364F7,6FB1FC&height=100&section=footer" />
 </p>
