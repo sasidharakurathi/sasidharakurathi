@@ -119,9 +119,9 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasidharakurathi&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 <br/>
 
