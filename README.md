@@ -108,6 +108,26 @@
 
 ---
 
+### 🧠 Technical Expertise Profile
+
+*A synthesized breakdown of my engineering philosophy and technical approach, derived from real project evidence.*
+
+```json
+{
+  "technical_expertise": {
+    "backend": "I design APIs following a layered, async-first philosophy. In Project-T, I built a FastAPI server that manages persistent TCP-over-HTTP/2 tunnels, using Hypercorn with h2c support for low-latency header compression and multiplexing. Startup/shutdown of background TCP server tasks is coordinated via FastAPI lifespans to guarantee clean resource teardown. In AI-Interviewer, I combined FastAPI for REST/WebSocket API management with Django Channels for reliable real-time WebSocket signaling during live video sessions. State is persisted via SQLAlchemy ORM with Alembic migrations (Project-T) and a robust UUID-keyed MySQL schema (AI-Interviewer), providing both session continuity and audit logs. Concurrency is handled through Python's asyncio — heavy tasks like Whisper transcription or LLM inference run in background thread pools (asyncio.to_thread) so the API event loop stays unblocked.",
+
+    "ai_systems": "I build multi-stage AI pipelines that combine retrieval precision with semantic depth. In Axon-File-Manager, the 'Neural Search' engine runs a four-stage pipeline: (1) Dual Retrieval — BM25 keyword search fused with dense vector search against a Qdrant vector store using BAAI/bge-base embeddings, merged via Reciprocal Rank Fusion (RRF); (2) HyDE Query Expansion — a hypothetical document is generated for the query to improve vector recall on vague inputs; (3) Cross-Encoder Re-ranking — a re-ranker model scores the fused candidate set, ensuring the most semantically relevant files surface first; (4) KeyBERT Keyword Extraction — key concepts are auto-extracted at indexing time for richer BM25 recall. In Repo-Scribe, I implemented RAG without a vector database: the VS Code extension scans a project's docs/ folder, chunks Markdown style guides, and injects the most relevant conventions directly into the Gemini prompt context alongside the git diff. LLM orchestration across projects is provider-agnostic — I toggle between cloud (Google Gemini/gemma-3-27b) and fully local (Ollama/Llama 3.2) depending on privacy requirements.",
+
+    "security": "My security approach is built on three pillars. First, biometric authentication: in ATS, I integrated face recognition (dlib/OpenCV) for admin login, with multiprocessing-based parallel face encoding and a modification-timestamp cache to avoid re-encoding unchanged images — making biometric checks fast without sacrificing accuracy. Second, 'Bring Your Own Key' (BYOK) patterns: in Prompt-Polish, no API keys are ever sent to a backend. The Gemini API key is stored exclusively in chrome.storage.sync and API calls go directly from the browser to Google — a zero-backend, privacy-first architecture where the operator never sees user credentials. Third, air-gapped deployment security: in venvdrop, a SHA-256 integrity manifest is generated at pack time and verified at unpack time for every bundled file, and a platform descriptor (bundle_meta.json) embeds OS/CPU architecture/Python version metadata that blocks incompatible cross-platform deployments — preventing silent runtime failures in secure, offline environments.",
+
+    "devops": "My DevOps approach centers on self-contained, reproducible deployments. In venvdrop, I achieved zero runtime dependencies by building the entire CLI on Python's standard library only (ast, hashlib, http.server, socket, argparse) — no pip, no requests, no external packages. This makes the tool installable in the most restricted environments and auditable without a dependency graph. For cross-platform desktop bundling, RoboSwift uses Tauri 2 with a Rust backend: npm run tauri build compiles a production binary with a ~10 MB footprint, embedding the React frontend into a native OS installer for Windows. In Project-T, the desktop client is similarly bundled via Tauri for Windows/macOS/Linux. Axon-File-Manager uses PyInstaller to package the Python AI desktop app (with embedded models) as a standalone executable — handling the complexity of shipping heavy ML dependencies (Qdrant, sentence-transformers, KeyBERT) without requiring users to set up a Python environment. Local environment automation follows setup-script patterns with embedded platform guards (OS, CPU arch, Python version checks) to ensure consistent bootstrapping."
+  }
+}
+```
+
+---
+
 ### 📜 Education & Certifications
 - 🎓 **B.Tech Computer Science**, P.S.C.M.R College of Engineering & Technology (2022 - 2026)
 - ☁️ **Introduction to AWS Cloud: Builder Labs Learning Plan**
