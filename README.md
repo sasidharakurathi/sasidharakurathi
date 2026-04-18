@@ -108,6 +108,96 @@
 
 ---
 
+### 🏆 Top Repositories
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/sasidharakurathi/RoboSwift">RoboSwift</a></h3>
+      <p>High-performance desktop GUI for Windows robocopy built with Tauri 2 and Rust.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tauri_2-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri 2" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      </p>
+      <ul>
+        <li>Real-time stdout parsing</li>
+        <li>PID-level process cancellation</li>
+        <li>Live telemetry HUD</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/sasidharakurathi/Axon-File-Manager">Axon-File-Manager</a></h3>
+      <p>Neural search file manager combining vector search, BM25, and AI reranking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flet-0052D4?style=flat-square&logo=flutter&logoColor=white" alt="Flet" />
+        <img src="https://img.shields.io/badge/Qdrant-FF4088?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+        <img src="https://img.shields.io/badge/HyDE-6C3483?style=flat-square" alt="HyDE" />
+        <img src="https://img.shields.io/badge/Cross--Encoders-17A589?style=flat-square" alt="Cross-Encoders" />
+      </p>
+      <ul>
+        <li>Semantic search with HyDE query expansion</li>
+        <li>Hybrid RRF fusion (BM25 + vectors)</li>
+        <li>Automated file indexing</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/sasidharakurathi/venvdrop">venvdrop</a></h3>
+      <p>Zero-dependency CLI for air-gapped Python environment deployment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/UDP_Multicast-E74C3C?style=flat-square" alt="UDP Multicast" />
+        <img src="https://img.shields.io/badge/HTTP_Streaming-2C3E50?style=flat-square" alt="HTTP Streaming" />
+      </p>
+      <ul>
+        <li>Wireless LAN transfer for offline environment deployment</li>
+        <li>SHA-256 integrity checks</li>
+        <li>Absolute path detection</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 <a href="https://github.com/sasidharakurathi/ATS">ATS</a></h3>
+      <p>LLM-assisted recruitment system with biometric face-recognition authentication.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/dlib-008080?style=flat-square" alt="dlib" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      </p>
+      <ul>
+        <li>Context-aware resume analysis</li>
+        <li>Biometric face-recognition login</li>
+        <li>Deterministic scoring engine</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎤 <a href="https://github.com/sasidharakurathi/AI-Interviewer">AI-Interviewer</a></h3>
+      <p>Autonomous AI interview platform using WebRTC, Whisper, and Llama 3.2.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama" />
+        <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper" />
+        <img src="https://img.shields.io/badge/DeepFace-E74C3C?style=flat-square" alt="DeepFace" />
+      </p>
+      <ul>
+        <li>Interactive video interviews</li>
+        <li>Real-time proctoring with DeepFace</li>
+        <li>Automated feedback generation</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+
+---
+
 ### 📜 Education & Certifications
 - 🎓 **B.Tech Computer Science**, P.S.C.M.R College of Engineering & Technology (2022 - 2026)
 - ☁️ **Introduction to AWS Cloud: Builder Labs Learning Plan**
